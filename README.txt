@@ -1,4 +1,4 @@
-xBot website (Terms of Service + Privacy Policy)
+Lovebyte website (Terms of Service + Privacy Policy)
 
 Files
   index.html    Home page
