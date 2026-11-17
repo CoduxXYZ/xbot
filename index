@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>xBot – The custom bot for Lovesick</title>
+<meta name="description" content="xBot is the custom Discord bot built only for the Lovesick server (formerly The X-Zone).">
+<link rel="icon" href="assets/logo.png">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500&family=Figtree:wght@400;600&display=swap">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header><div class="wrap">
+<a class="logo" href="index.html"><img src="assets/logo.png" alt="">x<span>Bot</span></a>
+<nav aria-label="Main"><a href="index.html" aria-current="page">Overview</a><a href="index.html#commands">Commands</a><a href="terms.html">Terms</a><a href="privacy.html">Privacy</a><a class="join" href="https://discord.gg/lvsick" rel="noopener">Join Lovesick</a></nav>
+</div></header>
+<main>
+<div class="wrap">
+<div class="hero">
+<div>
+<h1>The bot behind Lovesick</h1>
+<p>Economy, levels, confessions, tickets and more, built only for the Lovesick Discord server (formerly The X-Zone).</p>
+<div class="btns"><a class="btn p" href="https://discord.gg/lvsick" rel="noopener">Join Lovesick</a><a class="btn" href="#commands">View commands</a></div>
+</div>
+<div class="shot"><img src="assets/banner.jpg" alt="Welcome to Lovesick" width="1400" height="785"></div>
+</div>
+<img class="sep" src="assets/divider.png" alt="" role="presentation">
+<div class="stats"><div><b>46</b><span>Commands</span></div><div><b>13</b><span>Categories</span></div><div><b>1</b><span>Community</span></div></div>
+</div>
+<section><div class="wrap"><h2>What xBot does</h2><p class="sub">Everything members use day to day in the server.</p><div class="cards"><div class="card"><h3>Economy</h3><p>Earn, save and spend a server currency with work, bank, shop and more.</p></div><div class="card"><h3>Levels and roles</h3><p>Chat to level up and unlock roles as you go.</p></div><div class="card"><h3>Confessions</h3><p>Share anonymously, with logs kept for moderators.</p></div><div class="card"><h3>Tickets</h3><p>Get help from staff with a single command.</p></div><div class="card"><h3>Boosts</h3><p>Thank server boosters and follow the boost leaderboard.</p></div><div class="card"><h3>SquishMallows</h3><p>Collect them in drops and special events.</p></div></div></div></section>
+<section id="commands"><div class="wrap"><h2>Commands</h2><p class="sub">Use <code>xhelp [command]</code> in Discord for details. Some commands show usernames in lists.</p><div class="row"><h3>AFK</h3><p>afk</p></div><div class="row"><h3>Administrator</h3><p>addbalance, announce, levelrole, levelroles, removebalance, separator, setlevel, shoprole</p></div><div class="row"><h3>Boost</h3><p>boost, boost channel, boosttest, boosting, boostlb</p></div><div class="row"><h3>Confessions</h3><p>confess, confessions, confessions channel, confessions logs</p></div><div class="row"><h3>Economy</h3><p>balance, bank, buy, deposit, give, messages, shop, steal, withdraw, work</p></div><div class="row"><h3>Fun</h3><p>ball, facts, ship</p></div><div class="row"><h3>Miscellaneous</h3><p>help, ping, snipe</p></div><div class="row"><h3>Nicknames</h3><p>nickname, nicknames, nicknames channel</p></div><div class="row"><h3>Profile</h3><p>level</p></div><div class="row"><h3>SquishMallows</h3><p>drop, squishmallowschannel, squishmallowsevent, squishmallows</p></div><div class="row"><h3>Suggestions</h3><p>suggest, suggestions</p></div><div class="row"><h3>Tickets</h3><p>ticket</p></div><div class="row"><h3>Welcomes</h3><p>welcomes</p></div></div></section>
+<div class="wrap"><div class="cta"><h2>Join the community</h2><p class="sub">Try xBot in the Lovesick server, or read how it works.</p><div class="btns"><a class="btn p" href="https://discord.gg/lvsick" rel="noopener">Join Lovesick</a><a class="btn" href="terms.html">Terms of Service</a><a class="btn" href="privacy.html">Privacy Policy</a></div></div></div>
+</main>
+<footer><div class="wrap"><p>© 2026 xBot. All rights reserved.</p><nav aria-label="Legal"><a href="terms.html">Terms of Service</a><a href="privacy.html">Privacy Policy</a></nav></div></footer>
+</body>
+</html>
